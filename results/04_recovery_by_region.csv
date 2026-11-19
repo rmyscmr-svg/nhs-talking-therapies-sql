@@ -1,0 +1,8 @@
+region,avg_recovery_pct,avg_improvement_pct,total_finished_treatment,vs_ambition
+NORTH EAST AND YORKSHIRE,51.2,68.8,102700,Meets 50%
+EAST OF ENGLAND,51.2,67.7,85255,Meets 50%
+SOUTH WEST,50.9,68.6,62735,Meets 50%
+MIDLANDS,50.2,69.5,135775,Meets 50%
+LONDON,50.0,67.8,120110,Meets 50%
+SOUTH EAST,49.8,66.5,116790,Below 50%
+NORTH WEST,47.5,66.4,91965,Below 50%
